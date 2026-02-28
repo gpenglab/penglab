@@ -6,13 +6,33 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+associate-researcher:
+  icon: fa-solid fa-microscope
+  description: Associate Researcher
+
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-graduation-cap
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-book
   description: PhD Student
+
+ms:
+  icon: fa-solid fa-book
+  description: Master Student
+
+tech:
+  icon: fa-solid fa-eyedropper
+  description: Lab Technician
+
+ra:
+  icon: fa-solid fa-cogs
+  description: Research Assistant
+
+manager:
+  icon: fa-solid fa-fa-line-chart
+  description: Lab Manager
 
 undergrad:
   icon: fa-solid fa-user-graduate

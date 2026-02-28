@@ -1,23 +1,240 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1093/gpbjnl/qzag001
+  image: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gpb/PAP/10.1093_gpbjnl_qzag001/1/qzag001f1.jpeg?Expires=1773063935&Signature=mZA2XRx1tt5Vt72HSm6wePlOdm0ifnp8TOawq-meDKvtnWRPVGzQ1P5gUDV~lrygNg-pUTjRNWHZZSoIe-37bHnkAZGL5khdueyfrgDQJhP6ADzTGNjs4n~JfRaBPXN9Y3Yo6uXx9bgP-owR9stSii5KaHEoM4TekB2SFHWbitX2CC~htEn-IX9lzg0KiqiWlkWojxxXbo~7SmFuLVjl62Uy09zRtSrJ7w6-SJ3H27wUD5c9G0qqEZIbuPwEoYyowiea68QBsITNVeXn2egKTqP8G3mtc~FBC39XwYGJOWcVWkQnHZM0EIPkyFd0KmyDP61U11MmLFnAOh2NUg5TlQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  date: 2026-01-12
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Breast Cancer
+    - Spatial-ATAC
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1002/advs.202413019
+  image: "https://advanced.onlinelibrary.wiley.com/cms/asset/787625d6-3ec0-4fe8-904e-49890ec9c474/advs11167-fig-0001-m.jpg"
+  date: 2025-08-14
+  type: paper
+  tags:
+    - Gastric Cancer
+    - Single-cell RNA-seq
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1016/j.cell.2025.07.018
+  image: "https://www.cell.com/cms/10.1016/j.cell.2025.07.018/asset/5522710c-b69f-4c61-bdda-c8e1da7d2036/main.assets/fx1_lrg.jpg"
+  date: 2025-07-15
+  type: paper
+  tags:
+    - Embryogenesis
+    - Stem Cells
+
+- id: doi:10.1038/s41467-025-61667-4
+  image: "./images/cmap.jpg"
+  date: 2025-07-15
+  type: paper
+  buttons:
+    - type: github
+      link: https://github.com/SuoLab-GZLab/CMAP
+  tags:
+    - High-resolution scRNA-seq Mapping
+    - Spatial Deconvolution
+
+- id: doi:10.1016/j.celrep.2024.115105
+  image: "https://www.cell.com/cms/10.1016/j.celrep.2024.115105/asset/9d4ffbc8-c476-40f2-a291-9238d73ab3fc/main.assets/fx1_lrg.jpg"
+  date: 2025-01-28
+  type: paper
+  tags:
+    - Lineage Tracing
+    - CRISPR/Cas
+
+- id: doi:10.1002/smtd.202401451
+  image: "./images/PASSAGE.png"
+  date: 2025-02-04
+  type: paper
+  buttons:
+    - type: github
+      link: https://github.com/gao-lab/PASSAGE
+  tags:
+    - Multi-slice Spatial Analysis
+    - Graph Attention Network
+
+- id: doi:10.1016/j.scib.2025.03.012
+  image: "https://ars.els-cdn.com/content/image/1-s2.0-S2095927325002403-ga1_lrg.jpg"
+  date: 2025-03-10
+  type: paper
+  tags:
+    - Spatiotemporal Atlas
+    - Lung Development
+
+- id: doi:10.1016/j.jare.2025.12.042
+  image: "https://ars.els-cdn.com/content/image/1-s2.0-S209012322501032X-ga1_lrg.jpg"
+  date: 2025-12-26
+  type: paper
+  tags:
+    - Adenomyosis
+    - Transcriptomics Landscape
+
+- id: arxiv:2508.10646
+  image: "./images/SPHENIC.png"
+  date: 2025-10-16
+  type: paper
+  tags:
+    - Persistent Homology
+    - Multi-View Clustering
+
+- id: doi:10.1016/j.tig.2024.11.007
+  image: "https://www.cell.com/cms/10.1016/j.tig.2024.11.007/asset/e013afc9-ab76-45ec-9add-e887c54353ae/main.assets/gr1_lrg.jpg"
+  date: 2025-01-28
+  type: paper
+  tags:
+    - Spatial Multiomics
+    - Embryo Development
+
+- id: doi:10.1038/s41592-024-02325-3
+  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-024-02325-3/MediaObjects/41592_2024_2325_Fig1_HTML.png?as=webp"
+  date: 2024-07-04
+  type: paper
+  tags:
+    - Benchmarking
+    - Spatial Technology
+
+- id: doi:10.1136/ard-2023-224420
+  image: "https://ars.els-cdn.com/content/image/1-s2.0-S0003496724000840-gr1.jpg"
+  date: 2024-07-01
+  type: paper
+  tags:
+    - Osteoarthritis
+    - Cartilage Degeneration
+
+- id: doi:10.3390/nano14242014
+  image: "https://www.mdpi.com/nanomaterials/nanomaterials-14-02014/article_deploy/html/images/nanomaterials-14-02014-g001.png"
+  date: 2024-12-14
+  type: paper
+  tags:
+    - Nanotechnology
+    - Molecular Biosensing
+
+- id: doi:10.1016/j.devcel.2024.06.016
+  image: "https://www.cell.com/cms/10.1016/j.devcel.2024.06.016/asset/e3887f76-4f1b-41e2-babb-f0d450c9fb54/main.assets/fx1_lrg.jpg"
+  date: 2024-10-21
+  type: paper
+  tags:
+    - Spinal Cord Injury
+    - Astrocyte Atlas
+
+- id: doi:10.1038/s41592-023-01884-1
+  image: "./images/misarseq.jpg"
+  date: 2023-07-31
+  type: paper
+  buttons:
+    - type: github
+      link: https://github.com/gpenglab/MISAR-seq
+  tags:
+    - Spatial RNA+ATAC seq
+    - Brain Development
+
+- id: doi:/10.1186/s13619-022-00149-0
+  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13619-022-00149-0/MediaObjects/13619_2022_149_Fig1_HTML.png?as=webp"
+  date: 2023-04-03
+  type: paper
+  tags:
+    - Lung Regeneration
+    - Progenitor Status
+
+- id: doi:10.1038/s41467-023-40155-7
+  image: "./images/3dim.jpg"
+  date: 2023-04-03
+  type: paper
+  tags:
+    - 3D Architecture
+    - Organogenesis
+
+- id: doi:10.1186/s13619-023-00159-6
+  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13619-023-00159-6/MediaObjects/13619_2023_159_Fig1_HTML.png?as=webp"
+  date: 2023-03-23
+  type: paper
+  tags:
+    - Motor Neurons
+    - Neural Progenitors
+
+- id: doi:10.1016/j.xinn.2022.100342
+  image: "https://www.cell.com/cms/10.1016/j.xinn.2022.100342/asset/af857c48-e723-465f-9d0f-0356ba2ec713/main.assets/fx1_lrg.jpg"
+  date: 2022-08-30
+  type: paper
+  tags:
+    - Single-cell Technologies
+    - Clinical Application
+
+- id: doi:10.1007/s13238-022-00913-7
+  image: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/proteincell/13/11/10.1007_s13238-022-00913-7/2/m_13238_2022_913_fig1_html.jpeg?Expires=1771370557&Signature=2gZRokvqO1RDzgpptHfBpbXuT5hVVo9AI8C-h8UZpauohcCjM6RDqqO9LsirOHJXjXdtRZru0QakHWwcpeHtbPh6Dvaql05ZR2DeqfQvaQfG4yhjdenA-DOBw1ia97QsiOZUu5hOTkFQSXTYzTg9v3Z6ep4cCEZg2ff-aZMt4UMGCQKovx80DAt7t1jVxj-ORlxnsQh6B7-6m3hgsRjqol5-a~04Fj8h2FSM9Y7OkXZvYhjgin3uOKVt5f0AITMUhlkClbm5ztuuOid9BiRgOc1PpuWwFTSX68T9qB3CrHT33ZYHeCaD37ixNPmTmLtm3xyS5UQQVo3AWT4o8rhPPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  date: 2022-06-30
+  type: paper
+  tags:
+    - Lineage Tracing
+    - Review
+
+- id: doi:10.1016/j.celrep.2022.111285
+  image: "https://www.cell.com/cms/10.1016/j.celrep.2022.111285/asset/2cb40400-909d-481c-a2ce-1f5cb7f38996/main.assets/fx1_lrg.jpg"
+  date: 2022-11-08
+  type: paper
+  tags:
+    - Primate Embryo
+    - Germ Layers
+
+- id: pmc:PMC10189652
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/dc7f/10189652/2bae25a3a98b/br-8-3-119-1.jpg"
+  date: 2022-06-30
+  type: paper
+  tags:
+    - Spatial Transcriptomics
+    - Biological Complexity
+
+- id: doi:10.1111/cpr.13096
+  image: "https://onlinelibrary.wiley.com/cms/asset/e4279213-187e-457f-bd67-bb2f092f871a/cpr13096-fig-0001-m.jpg"
+  date: 2021-07-09
+  type: paper
+  tags:
+    - Base Editing
+    - Isoform Analysis
+
+- id: doi:10.1111/cpr.13000
+  image: "https://onlinelibrary.wiley.com/cms/asset/1caa3acd-f08d-4075-b9f9-c4384011360a/cpr13000-fig-0001-m.jpg"
+  date: 2021-03-05
+  type: paper
+  tags:
+    - RNA Helicase
+    - Neonatal Gonocytes
+
+- id: doi:10.1146/annurev-genom-120219-083220
+  image: "https://www.annualreviews.org/docserver/fulltext/genom/21/1/gg210163.f2.gif"
+  date: 2020-08-31
+  type: paper
+  tags:
+    - Lineage Specification
+    - Review
+
+- id: doi:10.1038/s41586-019-1469-8
+  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1469-8/MediaObjects/41586_2019_1469_Fig1_HTML.png?as=webp"
+  date: 2019-08-22
+  type: paper
+  tags:
+    - Lineage Allocation
+    - Mouse Embryo
+
+- id: doi:10.1126/science.aaw5754
+  image: "https://www.science.org/cms/10.1126/science.aaw5754/asset/319dd568-c1e5-4871-a31a-092d1c9e5892/assets/graphic/366_aaw5754_fa.jpeg"
+  date: 2019-11-15
+  type: paper
+  tags:
+    - Primate Development
+    - Post-implantation
+
+- id: doi:10.1093/jmcb/mjz101
+  image: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jmcb/11/11/10.1093_jmcb_mjz101/3/m_mjz101f1.jpeg?Expires=1771579039&Signature=n7~1arZAqJ3~y3x0L5zpzlqwo~w8~VFTR1weIufGx3AG3F8YGyu2LYunHHqEzA8XmIQvxKUitHqnO1ePUThRPbJfCUr3kYFwfxGra4siH7vnnGkU~cpmdF6E~DdhtLXqRJMJz5PcUyYtIFjKOsmpxg-bh5shwzvnwIFp2qEHvyXnMZOUIzX9DNvMYEt0eNLdXHmtG0VPm8gBXX4xDWFp-Z63bfg0oOKqzLliMnBhmxCfijIwQkDaI4zND9MrYQnW~7arzrUpYTgUV3WjZ9tYci1atlOai4CR6XCVHEqna~am19JtzguDsVzt54pZvZckDrSzH-C--hoDTTU5ZGeDKw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  date: 2019-11-22
+  type: paper
+  tags:
+    - Commentary
+    - Mouse Embryo
+
+- id: doi:10.1038/nprot.2017.003
+  image: "https://media.springernature.com/m312/springer-static/image/art%3A10.1038/nprot.2017.003/MediaObjects/41596_2017_Article_BFnprot2017003_Fig1_HTML.jpg?"
+  date: 2017-02-16
+  type: paper
+  tags:
+    - Geo-seq
+    - Protocol

@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: gpenglab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: 蓬莱部
+subtitle: WELCOME TO PENG LAB!
+description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+header: images/background.png
+footer: images/background.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@gpenglab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: peng_guangdun@gibh.ac.cn
+  orcid: 0000-0002-8586-0637
+  # google-scholar: https://scholar.google.com/citations?user=s7XddBgAAAAJ&hl=en&oi=ao
   github: gpenglab
-  twitter: gpenglab
-  youtube: gpenglab
 
 ### jekyll settings
 
@@ -29,6 +27,10 @@ defaults:
       type: "members"
     values:
       layout: member
+  - scope:
+      type: "alumni"
+    values:
+      layout: member
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -41,6 +43,9 @@ collections:
     output: true
   # generate page for each post
   posts:
+    output: true
+
+  alumni:
     output: true
 
 # jekyll plugins

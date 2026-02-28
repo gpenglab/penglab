@@ -1,47 +1,48 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Spatial Multi-omics for Tissue Context and Cellular Regulationes
+  subtitle: MISAR-seq, GEO-seq
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/misarseq.jpg
+  # link: https://github.com/
+  description: We develop and apply high-resolution novel spatial multi-omics technologies to reveal how cellular fates are shaped by their microenvironment and to decode the spatially organized molecular programs underlying tissue function.
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Single-Cell Multi-Omics and Lineage Tracing
+  subtitle: DuTracer
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/dutracer.jpg
+  # link: https://github.com/
+  description: We combine single-cell sequencing, lineage tracking, computational analysis, and AI to dissect cellular heterogeneity, functional diversification, and regulatory networks during development and disease.
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: Pluripotent Stem Cell-Based Organ Reconstruction and Repair
+  # subtitle: a subtitle
+  image: images/stem.jpg
+  # link: https://github.com/
+  description: Leveraging insights from cellular lineage mapping, we engineer stem cells and pioneer new approaches for lineage reprogramming, injury repair, and de novo organogenesis.
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
+  #   - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Novel Computational Methods for Single-Cell and Spatial Omics Data Analysis
+  subtitle: CMAP, PASSAGE, SPHENIC
+  group: featured
+  image: images/cmap.jpg
+  # link: https://github.com/
+  description: We develop and implement advanced computational algorithms and deep learning frameworks to extract meaningful biological insights from complex single-cell and spatial omics datasets, enabling more accurate modeling of cellular dynamics and interactions.
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Neural Organoid Systems for Disease Modeling and Drug Screening
+  # subtitle: a subtitle
+  image: images/sci.jpg
+  # link: https://github.com/
+  description: We engineer human neural organoids to recapitulate key aspects of brain development and disease pathology. These systems serve as powerful platforms for mechanistic studies, drug discovery, and personalized therapeutic screening.
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - software

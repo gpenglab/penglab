@@ -7,27 +7,37 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We welcome motivated students, postdoctoral researchers, technicians, research scientists and undergraduate internships with backgrounds in biology, medicine, bioinformatics, computational science, engineering, or related fields. For Master or Ph.D. students, please check the official programs of [GIBH](https://gibh.cas.cn/). If you are passionate about exploring the frontiers of cellular lineage biology and regenerative medicine, we encourage you to contact us. And hope you can become a part of the PengLab family!
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="width: 200px;">
+    {% include figure.html image="images/pgd_QR.png" caption="Profile of Prof. Peng" %}
+  </div>
+  <div style="width: 200px;">
+    {% include figure.html image="images/wechat.jpg" caption="WeChat accounts of PengLab" %}
+  </div>
+  <div style="width: 200px;">
+    {% include figure.html image="images/gibh.jpg" caption="WeChat accounts of GIBH" %}
+  </div>
+</div>
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="peng_guangdun@gibh.ac.cn"
+  link="peng_guangdun@gibh.ac.cn"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(+86)020-89851649"
+  link="+86-020-89851649"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/1m5PjZP7bPApNJ9t8"
 %}
 
 {% include section.html %}
@@ -36,8 +46,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/gibh1.jpg"
+  caption="Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences"
 %}
 
 {% endcapture %}
@@ -46,8 +56,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/gibh2.jpg"
+  caption="Human Cell Lineage Atlas Facility"
 %}
 
 {% endcapture %}
@@ -55,7 +65,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
-
+<!-- 
 {% capture col1 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
@@ -72,6 +82,6 @@ sed do eiusmod tempor
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
-{% endcapture %}
+{% endcapture %} -->
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
