@@ -5,6 +5,6 @@
 
   # gpenglab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[gpenglab.github.io/penglab](https://gpenglab.github.io/penglab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
