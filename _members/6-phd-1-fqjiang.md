@@ -1,7 +1,7 @@
 ---
 name: Fuqing Jiang
 image: images/jfq.jpg
-role: phd
+role: Associate Researcher
 group: spatial omics
 
 ---
