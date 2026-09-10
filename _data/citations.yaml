@@ -1,5 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.07.29.741448
+  title: Single-cell lineage tracing of human neuromesoderm organoids reveals TBX6-mediated
+    posterior mesoderm fate diversification
+  authors:
+  - Yuanxin Liao
+  - Cheng Chen
+  - Meisi Li
+  - Chuwei Wang
+  - Li Wang
+  - Miao Zhu
+  - Yao Yao
+  - Guangdun Peng
+  publisher: openRxiv
+  date: '2026-07-30'
+  link: https://doi.org/hcdcxf
+  orcid: 0000-0002-8586-0637
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.06.16.732634
+  title: 'Steller: a high-resolution platform for spatial clonal tracing of mammalian
+    brain development'
+  authors:
+  - Zhuxia Li
+  - Chuwei Wang
+  - Chenyu Guo
+  - Yuanxin Liao
+  - Cheng Chen
+  - Qiaorui Xing
+  - Weike Pei
+  - Guangdun Peng
+  publisher: openRxiv
+  date: '2026-06-17'
+  link: https://doi.org/hb8cg7
+  orcid: 0000-0002-8586-0637
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkag577
+  title: IAPEz retrotransposons regulate the first lineage segregation in mouse pre-implantation
+    development
+  authors:
+  - Rujin Huang
+  - Zhaoya Han
+  - Zhongqi Liufu
+  - Xiongzhi Quan
+  - Danfeng Li
+  - Hongzhi Dong
+  - Guangliang Hong
+  - Ruhai Chen
+  - Man Zhang
+  - Guangdun Peng
+  - Duanqing Pei
+  - Jiekai Chen
+  - Jiangping He
+  publisher: Nucleic Acids Research
+  date: '2026-06-08'
+  link: https://doi.org/hb7pw2
+  orcid: 0000-0002-8586-0637
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/sciadv.adx5697
   title: Divergent stem cell mechanisms govern the primary body axis and appendage
     regeneration in the axolotl
@@ -56,7 +115,7 @@
   - Jiekai Chen
   - Qi Chen
   publisher: Cell
-  date: '2026-02-01'
+  date: '2026-03-01'
   link: https://doi.org/hbq2nr
   orcid: 0000-0002-8586-0637
   plugin: orcid.py
@@ -1482,7 +1541,7 @@
   - Junlan Geng
   - Naihe Jing
   - Leping Cheng
-  publisher: SSRN Electronic Journal
+  publisher: Elsevier BV
   date: '2018-01-01'
   link: https://doi.org/hbnnzr
   orcid: 0000-0002-8586-0637
@@ -1991,19 +2050,19 @@
   title: Spatial Chromatin Accessibility Analysis of Intratumor Heterogeneity in Breast
     Cancer
   authors:
-  - Yingying Qian
-  - Miao Zhu
-  - Chongyang Ren
-  - Yeyong Zhou
-  - Jian Xu
-  - Liang Dong
-  - Guangyu Zhang
-  - Cheukfai Li
-  - Jiaoyi lv
-  - Qiaorui Xing
-  - Guochun Zhang
-  - Guangdun Peng
-  - Ning Liao
+  - "Yingying Qian (\u94B1\u83B9\u83B9)"
+  - "Miao Zhu (\u6731\u6DFC)"
+  - "Chongyang Ren (\u4EFB\u91CD\u9633)"
+  - "Yeyong Zhou (\u5468\u4E1A\u6C38)"
+  - "Jian Xu (\u5F90\u5251)"
+  - "Liang Dong (\u8463\u826F)"
+  - "Guangyu Zhang (\u5F20\u5E7F\u96E8)"
+  - "Cheukfai Li (\u674E\u712F\u8F89)"
+  - "Jiaoyi lv (\u5415\u5A07\u6021)"
+  - "Qiaorui Xing (\u90A2\u5DE7\u745E)"
+  - "Guochun Zhang (\u5F20\u56FD\u6DF3)"
+  - "Guangdun Peng (\u5F6D\u5E7F\u6566)"
+  - "Ning Liao (\u5ED6\u5B81)"
   publisher: Genomics, Proteomics &amp; Bioinformatics
   date: '2026-01-12'
   link: https://doi.org/hbnjwm
@@ -2224,7 +2283,7 @@
   - Guangdun Peng
   publisher: Cell Regeneration
   date: '2023-04-03'
-  link: https://doi.org/hbnjww
+  link: https://doi.org//10.1186/s13619-022-00149-0
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13619-022-00149-0/MediaObjects/13619_2022_149_Fig1_HTML.png?as=webp
   type: paper
   tags:
